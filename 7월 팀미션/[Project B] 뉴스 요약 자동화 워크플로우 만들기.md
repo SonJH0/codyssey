@@ -62,11 +62,11 @@ RSS 모듈을 통해 지정한 뉴스 피드에서 최신 기사를 자동으로
 
 RSS에서 쓰인 링크는 구글 기사 링크로, 네이버가 RSS를 지원하지 않아 가장 보편적으로 넓은 범위를 커버할 수 있는 구글 기사로 선정했습니다.
 
-<img width="1911" height="991" alt="스크린샷 2026-08-03 175701" src="https://github.com/user-attachments/assets/3afccb4a-effe-4d3a-827a-a702e946921e" />
-
 <img width="808" height="944" alt="스크린샷 2026-08-03 173700" src="https://github.com/user-attachments/assets/9a282447-40b9-428c-80c1-06251e52081f" />
 
 <img width="796" height="852" alt="스크린샷 2026-08-03 173710" src="https://github.com/user-attachments/assets/f1c2a3ad-9519-4765-93a7-c89224cb49f4" />
+
+더불어 키워드를 등록하여 제목에 ai가 있는 뉴스만 수집하도록 설정했습니다.
 
 
 ### 6-2. 중복 필터링
