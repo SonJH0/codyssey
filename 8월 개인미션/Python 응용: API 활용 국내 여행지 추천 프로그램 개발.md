@@ -37,12 +37,8 @@
 
 ## ⚙️ 실행 방법
 
-### 1) 라이브러리 설치
-```bash
-pip install requests python-dotenv google-genai
-```
+### 1) 프로그램 실행
 
-### 2) 프로그램 실행
 ```bash
 # 기본 (1개 도시 추천)
 python main.py --date "2026-08-15"
