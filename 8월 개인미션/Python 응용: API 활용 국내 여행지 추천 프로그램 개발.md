@@ -89,25 +89,6 @@ KAKAO_KEY = os.getenv("KAKAO_API_KEY")
 
 ---
 
-## 🔒 보안 주의사항 (중요!)
-
-- ❌ **API 키를 코드에 직접 작성하지 않습니다.**
-- ✅ `.env` 파일 또는 환경변수로 키를 관리합니다.
-- ✅ `.gitignore`에 `.env`를 추가하여 **키가 GitHub에 올라가지 않도록** 합니다.
-
-```
-# .gitignore
-.env
-results/
-__pycache__/
-```
-
-> 💡 **왜 필요한가요?**
-> - 협업/공유 시 실수로 키가 공개되는 것을 방지
-> - 키를 교체해도 코드 수정이 불필요
-> - 과금/쿼터가 걸린 서비스의 사고 예방
-
----
 
 ## 📁 결과물 확인 방법
 
@@ -197,17 +178,6 @@ for city in cities:
     city["restaurants"] = search_restaurants(city["recommended_city"])
 ```
 
----
-
-## 📚 학습 포인트 (배운 것)
-
-이 프로젝트를 통해 아래를 이해하고 구현했습니다.
-
-- **REST API의 요청/응답 구조**와 GET/POST 차이
-- **LLM 출력을 JSON으로 구조화**하여 다음 단계 입력으로 연결하는 흐름
-- 외부 API 호출 시 발생하는 오류(**인증/쿼터/네트워크/파싱**)와 대응 원칙
-- **API 키를 .env로 관리**하는 이유와 보안의 중요성
-- **여러 API를 조합**하여 인사이트를 만드는 실무형 흐름
 
 ---
 
@@ -222,53 +192,4 @@ travel_recommender/
 └── results/             # 실행 결과 저장 폴더
     ├── data_2026-08-15.json
     └── report_2026-08-15.md
-```
-
----
-
-## 👤 작성자
-- 국내 여행지 추천 프로그램 미션 수행
-```
-
----
-
-## 📝 GitHub 업로드 전 체크리스트!
-
-깃허브에 올리기 전에 **꼭** 확인하세요! 🔒
-
-### 🚨 가장 중요! (.gitignore 만들기!)
-
-`.gitignore` 파일을 만들고 아래 내용을 넣으세요!
-
-```
-.env
-results/
-__pycache__/
-*.pyc
-```
-
-> ⚠️ **이거 안 하면 API 키가 GitHub에 유출돼요!!** 😱  
-> 가이드에서도 "키 노출 방지"가 필수 요구사항이에요!
-
----
-
-## ▶️ GitHub 업로드 순서
-
-```bash
-# 1. Git 초기화
-git init
-
-# 2. .gitignore 먼저 만들기! (위 내용 넣기)
-
-# 3. 파일 추가 (.env는 자동 제외됨!)
-git add .
-
-# 4. 커밋
-git commit -m "국내 여행지 추천 프로그램 완성"
-
-# 5. GitHub 저장소 연결 (본인 저장소 주소로!)
-git remote add origin https://github.com/본인아이디/저장소이름.git
-
-# 6. 업로드
-git push -u origin main
 ```
