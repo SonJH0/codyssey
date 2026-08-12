@@ -203,7 +203,8 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 ## 8. 최종 결과
 
 
-<img width="1192" height="638" alt="634039382-cf9bb0df-c9d4-4b82-b053-2685e0a037d8" src="https://github.com/user-attachments/assets/440bd62d-d7d8-4b95-a5bb-cec5f5698155" />
+<img width="1086" height="860" alt="image" src="https://github.com/user-attachments/assets/98452ce0-5319-4771-98a8-ea59ea390e79" />
+
 
 
 ---
