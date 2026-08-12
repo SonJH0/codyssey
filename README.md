@@ -175,6 +175,12 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 **Gmail**
 - 오류 발생 시 Gmail로 알림.
 
+### ⚙️ Gmail 설계 이유
+
+| 항목 | 내용 |
+|------|------|
+| **Gmail 적용 이유** | 오류 발생시 곧바로 메일을 받아 대처하기 위해 |
+
 <img width="421" height="800" alt="image" src="https://github.com/user-attachments/assets/a5c32509-e9f2-4bcd-975e-fed76dd7ce9c" />
 
 
@@ -183,7 +189,7 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 - 재시도 횟수: **2회**
 - 재시도 간격: **5분**
 
-### ⚙️ Retry 설계 이유 및 후속 처리 *(신규 보완)*
+### ⚙️ Retry 설계 이유
 
 | 항목 | 내용 |
 |------|------|
