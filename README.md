@@ -172,14 +172,14 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 
 ### 적용한 정책
 
-- **Gmail**
+**Gmail**
 - 오류 발생 시 Gmail로 알림.
 
 <img width="421" height="800" alt="image" src="https://github.com/user-attachments/assets/a5c32509-e9f2-4bcd-975e-fed76dd7ce9c" />
 
 
 
-- **Retry 에러 핸들러 사용**
+**Retry 에러 핸들러 사용**
 - 재시도 횟수: **2회**
 - 재시도 간격: **5분**
 
