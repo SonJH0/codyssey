@@ -23,13 +23,13 @@
 ### 처리 흐름
 ```
 사용자 입력(날짜)
-   ↓
+   
 ① Gemini LLM → 여행지 추천 (JSON 구조화)
-   ↓
+   
 ② Kakao API → 추천 도시의 맛집 검색
-   ↓
+   
 ③ Gemini LLM → 최종 여행 리포트 생성 (Markdown)
-   ↓
+   
 ④ results/ 폴더에 JSON + MD 저장
 ```
 
