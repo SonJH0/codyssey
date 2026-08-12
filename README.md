@@ -183,6 +183,9 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 
 <img width="421" height="800" alt="image" src="https://github.com/user-attachments/assets/a5c32509-e9f2-4bcd-975e-fed76dd7ce9c" />
 
+<img width="1170" height="1329" alt="IMG_7757" src="https://github.com/user-attachments/assets/b5373bff-d6fa-447e-963a-e9c9d0e2688b" />
+
+
 
 
 **Retry 에러 핸들러 사용**
