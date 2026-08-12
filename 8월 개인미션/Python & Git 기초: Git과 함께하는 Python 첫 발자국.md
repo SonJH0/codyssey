@@ -436,10 +436,12 @@ git log --oneline --graph --all
 ### 16.4 GitHub 저장소 화면 스크린샷
 
 
-<img width="1297" height="474" alt="스크린샷 2026-08-07 111618" src="https://github.com/user-attachments/assets/fe8ae01a-fa2d-49d8-8616-fa151e36d9de" />
+<img width="299" height="310" alt="image" src="https://github.com/user-attachments/assets/1d7c4032-bd08-4d84-aaad-d54f2b403339" />
 <img width="969" height="840" alt="스크린샷 2026-08-07 111650" src="https://github.com/user-attachments/assets/1cb73d94-a4de-4dd1-9dab-68eefea1cbd6" />
 <img width="970" height="934" alt="스크린샷 2026-08-07 111657" src="https://github.com/user-attachments/assets/ed37f4ea-6b89-4c10-8123-a4d89fc39b98" />
 <img width="974" height="851" alt="스크린샷 2026-08-07 111709" src="https://github.com/user-attachments/assets/f350b9ab-2732-4a51-824a-79c9ba6b6779" />
+<img width="1316" height="721" alt="image" src="https://github.com/user-attachments/assets/8805c541-d208-4cdb-b3ff-4042a9559ea6" />
+
 
 
 
