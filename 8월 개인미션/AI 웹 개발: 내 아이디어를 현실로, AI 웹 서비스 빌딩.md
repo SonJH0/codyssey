@@ -71,7 +71,6 @@ AI가 딱 맞는 메뉴를 추천해드립니다. 🤖
 - **CSS3** : 스타일링 + 반응형 (미디어쿼리) + 다크모드
 - **JavaScript** : 사용자 입력 처리 + fetch 통신 + DOM 조작
 
-> ⚠️ React/Vue 등 프레임워크 미사용 
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
