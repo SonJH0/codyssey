@@ -71,16 +71,17 @@ AI가 딱 맞는 메뉴를 추천해드립니다. 🤖
 - **CSS3** : 스타일링 + 반응형 (미디어쿼리) + 다크모드
 - **JavaScript** : 사용자 입력 처리 + fetch 통신 + DOM 조작
 
-> ⚠️ React/Vue 등 프레임워크 미사용 (순수 바닐라)
+> ⚠️ React/Vue 등 프레임워크 미사용 
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
 
 - **Python** : Vercel Serverless Functions
 - **Google Gemini API** : AI 메뉴 추천 (`gemini-2.0-flash`)
 
 ### 배포 & 협업
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 - **GitHub** : 코드 저장소 및 버전 관리
 - **Vercel** : GitHub 연동 자동 배포
 
