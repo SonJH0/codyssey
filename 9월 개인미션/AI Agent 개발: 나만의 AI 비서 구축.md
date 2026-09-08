@@ -144,6 +144,8 @@ uvicorn main:app --reload
 `index.html` 파일을 브라우저로 열거나  
 Live Server 확장으로 실행
 
+https://aisup.vercel.app/
+
 ---
 
 ##  환경 변수 목록
