@@ -40,7 +40,7 @@ AI가 "너 요즘 공부 늘었어!" 같은 **맞춤형 답변**을 제공합니
 
 | 구분 | 링크 |
 |------|------|
-| **프론트엔드** | https://son-jh.vercel.app |
+| **프론트엔드** | https://vercel.com/son-jh/aisup/ALq854hC3Kh3XaihjjEbpj6yo46T |
 | **백엔드 API** | https://aisup-auxx.onrender.com |
 | **Swagger 문서** | https://aisup-auxx.onrender.com/docs |
 
@@ -52,15 +52,8 @@ AI가 "너 요즘 공부 늘었어!" 같은 **맞춤형 답변**을 제공합니
 
 ##  프로젝트 구조
 
-```
-project/
-├── backend/
-│   ├── main.py            # FastAPI 앱 + 라우터
-│   ├── requirements.txt   # 패키지 목록
-│   └── .env               # 환경 변수 (git 제외)
-└── frontend/
-    └── index.html         # 프론트엔드 (HTML/CSS/JS)
-```
+<img width="204" height="436" alt="image" src="https://github.com/user-attachments/assets/54c25675-36d3-4c80-8225-b43ea91b8569" />
+
 
 ---
 
@@ -119,8 +112,7 @@ project/
 
 ### 1. 저장소 클론
 ```bash
-git clone https://github.com/사용자명/저장소명.git
-cd 저장소명
+https://github.com/SonJH0/aisup
 ```
 
 ### 2. 가상환경 생성 및 활성화
@@ -172,13 +164,21 @@ Live Server 확장으로 실행
 ##  제출 스크린샷
 
 ### 1. 데이터 요약 기반 AI 채팅 (질문 + 답변)
-![AI 채팅 화면](./screenshots/chat.png)
+
+
+<img width="780" height="874" alt="image" src="https://github.com/user-attachments/assets/23ab8f62-3d7a-443d-bc6f-8436a446de0b" />
+
+
 
 ### 2. 데이터 관리 화면 (CRUD 동작)
-![데이터 관리 화면](./screenshots/crud.png)
+
+<img width="721" height="233" alt="image" src="https://github.com/user-attachments/assets/ec9fa7a2-12ba-47cf-82c2-3fb30fe44a20" />
+
+
 
 ### 3. 대화 기록 화면 (불러오기 동작)
-![대화 기록 화면](./screenshots/conversations.png)
+<img width="743" height="593" alt="image" src="https://github.com/user-attachments/assets/b17cd841-cf80-40f8-b315-d29ca09e3800" />
+
 
 ---
 
