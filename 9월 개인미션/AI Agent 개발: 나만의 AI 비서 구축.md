@@ -27,7 +27,7 @@ AI가 "너 요즘 공부 늘었어!" 같은 **맞춤형 답변**을 제공합니
 
 | 구분 | 기술 |
 |------|------|
-| **백엔드** | FastAPI, Uvicorn |
+| **백엔드** | openai |
 | **프론트엔드** | HTML, CSS, JavaScript (바닐라) |
 | **데이터베이스** | Firebase Firestore |
 | **AI** | OpenAI GPT API |
