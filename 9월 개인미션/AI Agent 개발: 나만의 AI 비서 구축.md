@@ -165,6 +165,8 @@ Live Server 확장으로 실행
 
 ### 1. 데이터 요약 기반 AI 채팅 (질문 + 답변)
 
+<img width="984" height="823" alt="image" src="https://github.com/user-attachments/assets/805efe4d-a90c-424d-9db8-d47ebf1cbd01" />
+
 
 <img width="780" height="874" alt="image" src="https://github.com/user-attachments/assets/23ab8f62-3d7a-443d-bc6f-8436a446de0b" />
 
