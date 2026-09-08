@@ -117,7 +117,6 @@ MA20이 MA60을 상향 돌파하는 골든크로스 이후 상승세를 보였�
 
 실행 방법 : streamlit run app.py
 
-링크 : http://localhost:8501/
 
 <img width="1881" height="934" alt="image" src="https://github.com/user-attachments/assets/31675c01-a5c7-4d5a-bbee-6a4387a42a7b" />
 
