@@ -138,7 +138,7 @@ pip install fastapi uvicorn firebase-admin openai python-dotenv
 ```bash
 uvicorn main:app --reload
 ```
-→ http://localhost:8000/docs 에서 Swagger 확인
+
 
 ### 6. 프론트엔드 실행
 `index.html` 파일을 브라우저로 열거나  
